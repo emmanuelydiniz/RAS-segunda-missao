@@ -1,1 +1,2 @@
 # RAS-segunda-missao
+Para esta fase nos foi pedido para escolher uma missão a ser realizada, a de minha escolha foi a missão de hand tracking, a qual inicialmente não havia entendido muito como executá-la, porém, com ajuda dos materiais disponibilizados e com auxílio de materiais na internet consegui realizá-lo, mesmo que enfrentando alguns empecilhos por não ter tanto conhecimento com códigos. Entretanto, essa atividade envolveu a configuração da câmera do notebook para que ela conseguisse lê e identificar essa leitura como um número. 
